@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waveBottom&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Hey%20there!%20I'm%20Reymon%20👋&fontSize=36&fontColor=ff6e96&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waveBottom&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Hey%20there!%20I'm%20RemReyx%20👋&fontSize=36&fontColor=ff6e96&animation=fadeIn&fontAlignY=65" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/reymon-brogada?label=Followers&style=for-the-badge&color=ff6e96&labelColor=0d1117&logo=github)](https://github.com/reymon-brogada)
-[![Profile views](https://komarev.com/ghpvc/?username=reymon-brogada&style=for-the-badge&color=ff6e96&labelColor=0d1117)](https://github.com/reymon-brogada)
+[![GitHub followers](https://img.shields.io/github/followers/RemReyx?label=Followers&style=for-the-badge&color=ff6e96&labelColor=0d1117&logo=github)](https://github.com/RemReyx)
+[![Profile views](https://komarev.com/ghpvc/?username=RemReyx&style=for-the-badge&color=ff6e96&labelColor=0d1117)](https://github.com/RemReyx)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=reymon-brogada&theme=dark&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideLabels=FF6E96&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF&border=30363D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RemReyx&theme=dark&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideLabels=FF6E96&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF&border=30363D)](https://git.io/streak-stats)
 
 </div>
 
@@ -32,11 +32,11 @@
 
 <div align="center">
 
-<a href="https://github.com/reymon-brogada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reymon-brogada&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=C9D1D9&ring_color=FF6E96&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<a href="https://github.com/RemReyx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RemReyx&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6E96&icon_color=FF6E96&text_color=C9D1D9&ring_color=FF6E96&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
-<a href="https://github.com/reymon-brogada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reymon-brogada&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/RemReyx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemReyx&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reymon-brogada&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RemReyx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RemReyx&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reymon-brogada&theme=dark_lover&no-frame=true&column=7&margin-w=8)](https://github.com/repy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RemReyx&theme=dark_lover&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
